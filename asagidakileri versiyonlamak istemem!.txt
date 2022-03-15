@@ -1,7 +1,0 @@
-asagidakileri versiyonlamak istemem!
-# .gitignore
-
-#gorseller
-#videolar
-#logolar
-#paket yöneticisi ile kurulmus dosyalar olabilir ??
